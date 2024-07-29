@@ -1,0 +1,12 @@
+* {
+  /* 적용가능 */
+  /* margin: 0; padding: 0; */
+}
+img {
+  display: inline-block;
+  width: 400px; height: 300px;
+  /* border: 1px solid red; */
+}
+.jsx {
+  color: aquamarine;
+}
