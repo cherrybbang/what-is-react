@@ -138,7 +138,7 @@
 // }
 
 // Multiple 렌더링
-import {people} from './people.js';
+import {people} from './people';
 import { getImgUrl } from './card';
 
 export default function MultipleList() {
